@@ -17,7 +17,7 @@ deploy:
   provider: s3
   access_key_id: "$AWS_ACCESS_KEY_ID"
   secret_access_key: "$AWS_SECRET_ACCESS_KEY"
-  bucket: "deploy-weeia"
+  bucket: "szadam9806-lab4-psoir"
   local_dir: "deploy"
   upload-dir: "Szymanski"
   skip_cleanup: true
