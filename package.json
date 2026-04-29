@@ -1,0 +1,25 @@
+{
+  "name": "citestszymanski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szadam9806/ciTestSzymanski.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szadam9806/ciTestSzymanski/issues"
+  },
+  "homepage": "https://github.com/szadam9806/ciTestSzymanski#readme",
+  "devDependencies": {
+    "mocha": "^11.7.5"
+  }
+}
